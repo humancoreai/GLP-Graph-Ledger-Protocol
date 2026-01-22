@@ -13,10 +13,10 @@ Current status: Specification v0.2 (draft)
 License: CC0 1.0 Universal
 
 N O  P O W E R  F O R  A N Y O N E
-Als Liste für ein README oder Manifest:
+
 No entity owns the graph.
 Open participation is the default.
-Power is never embedded in the protocol.
+Power is never embedded in the.    protocol.
 Ownership of truth is structurally impossible.
 Whoever speaks must pay cost, not receive privilege.
 Every claim stands or falls by its relations.
